@@ -1100,6 +1100,9 @@ audio {
 		background-repeat: no-repeat no-repeat;
 		background-size: 60px 100px;
 	}
+	.peach {
+	background-image:none;
+	background-color: #FFDAB9;
 }
 .balloons h2 {
 	text-transform: uppercase;
