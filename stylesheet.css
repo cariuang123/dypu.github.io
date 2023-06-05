@@ -12,6 +12,10 @@ body {
 	display: none;
 }
 .peach {
+	background-image:url(miku.jpeg);
+	background-image:brightness(20%);
+	background-repeat: no-repeat;
+	background-size: cover;
 	background-color: #FFDAB9;
     
 }
